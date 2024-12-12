@@ -1,0 +1,25 @@
+.dashboardContainer {
+    width: 100%;
+    min-height: 100vh;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: white;
+}
+
+.chartsContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-around;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+@media (max-width: 768px) {
+    .chartsContainer {
+        flex-direction: column;
+    }
+}

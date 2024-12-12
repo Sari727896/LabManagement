@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Service",
+    "\\Service\\AutoMapper",
+    "\\Service\\DTOs"
+  ],
+  "SelectedNode": "\\Service\\DTOs\\CustomerDto.cs",
+  "PreviewInSolutionExplorer": false
+}

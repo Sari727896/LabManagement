@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\projects\\LabManagementSystem\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35FC7BDA-7E04-4D13-A717-035669B507FB}|UI\\UI.csproj|c:\\users\\user\\desktop\\projects\\labmanagementsystem\\server\\ui\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35FC7BDA-7E04-4D13-A717-035669B507FB}|UI\\UI.csproj|solutionrelative:ui\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35FC7BDA-7E04-4D13-A717-035669B507FB}|UI\\UI.csproj|c:\\users\\user\\desktop\\projects\\labmanagementsystem\\server\\ui\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35FC7BDA-7E04-4D13-A717-035669B507FB}|UI\\UI.csproj|solutionrelative:ui\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35FC7BDA-7E04-4D13-A717-035669B507FB}|UI\\UI.csproj|c:\\users\\user\\desktop\\projects\\labmanagementsystem\\server\\ui\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35FC7BDA-7E04-4D13-A717-035669B507FB}|UI\\UI.csproj|solutionrelative:ui\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35FC7BDA-7E04-4D13-A717-035669B507FB}|UI\\UI.csproj|c:\\users\\user\\desktop\\projects\\labmanagementsystem\\server\\ui\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35FC7BDA-7E04-4D13-A717-035669B507FB}|UI\\UI.csproj|solutionrelative:ui\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D6D868-AD63-4D58-B6EE-2009C845C5C7}|Service\\Service.csproj|c:\\users\\user\\desktop\\projects\\labmanagementsystem\\server\\service\\implementations\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D6D868-AD63-4D58-B6EE-2009C845C5C7}|Service\\Service.csproj|solutionrelative:service\\implementations\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB87CC1-5480-4DB7-8A26-6922613371ED}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\projects\\labmanagementsystem\\server\\repository\\implementations\\statusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB87CC1-5480-4DB7-8A26-6922613371ED}|Repository\\Repository.csproj|solutionrelative:repository\\implementations\\statusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB87CC1-5480-4DB7-8A26-6922613371ED}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\projects\\labmanagementsystem\\server\\repository\\implementations\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB87CC1-5480-4DB7-8A26-6922613371ED}|Repository\\Repository.csproj|solutionrelative:repository\\implementations\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB87CC1-5480-4DB7-8A26-6922613371ED}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\projects\\labmanagementsystem\\server\\repository\\implementations\\devicetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB87CC1-5480-4DB7-8A26-6922613371ED}|Repository\\Repository.csproj|solutionrelative:repository\\implementations\\devicetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB87CC1-5480-4DB7-8A26-6922613371ED}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\projects\\labmanagementsystem\\server\\repository\\implementations\\devicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB87CC1-5480-4DB7-8A26-6922613371ED}|Repository\\Repository.csproj|solutionrelative:repository\\implementations\\devicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB87CC1-5480-4DB7-8A26-6922613371ED}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\projects\\labmanagementsystem\\server\\repository\\implementations\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB87CC1-5480-4DB7-8A26-6922613371ED}|Repository\\Repository.csproj|solutionrelative:repository\\implementations\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35FC7BDA-7E04-4D13-A717-035669B507FB}|UI\\UI.csproj|c:\\users\\user\\desktop\\projects\\labmanagementsystem\\server\\ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35FC7BDA-7E04-4D13-A717-035669B507FB}|UI\\UI.csproj|solutionrelative:ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB87CC1-5480-4DB7-8A26-6922613371ED}|Repository\\Repository.csproj|c:\\users\\user\\desktop\\projects\\labmanagementsystem\\server\\repository\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB87CC1-5480-4DB7-8A26-6922613371ED}|Repository\\Repository.csproj|solutionrelative:repository\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\projects\\LabManagementSystem\\Server\\UI\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "UI\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\projects\\LabManagementSystem\\Server\\UI\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "UI\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:15:41.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StatusController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\projects\\LabManagementSystem\\Server\\UI\\Controllers\\StatusController.cs",
+              "RelativeDocumentMoniker": "UI\\Controllers\\StatusController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\projects\\LabManagementSystem\\Server\\UI\\Controllers\\StatusController.cs",
+              "RelativeToolTip": "UI\\Controllers\\StatusController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:15:37.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\projects\\LabManagementSystem\\Server\\Service\\Implementations\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Service\\Implementations\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\projects\\LabManagementSystem\\Server\\Service\\Implementations\\CustomerService.cs",
+              "RelativeToolTip": "Service\\Implementations\\CustomerService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:58:07.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StatusRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\projects\\LabManagementSystem\\Server\\Repository\\Implementations\\StatusRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Implementations\\StatusRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\projects\\LabManagementSystem\\Server\\Repository\\Implementations\\StatusRepository.cs",
+              "RelativeToolTip": "Repository\\Implementations\\StatusRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:52:22.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\projects\\LabManagementSystem\\Server\\UI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "UI\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\projects\\LabManagementSystem\\Server\\UI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "UI\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:12:16.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeviceTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\projects\\LabManagementSystem\\Server\\Repository\\Implementations\\DeviceTypeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Implementations\\DeviceTypeRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\projects\\LabManagementSystem\\Server\\Repository\\Implementations\\DeviceTypeRepository.cs",
+              "RelativeToolTip": "Repository\\Implementations\\DeviceTypeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:52:02.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeviceController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\projects\\LabManagementSystem\\Server\\UI\\Controllers\\DeviceController.cs",
+              "RelativeDocumentMoniker": "UI\\Controllers\\DeviceController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\projects\\LabManagementSystem\\Server\\UI\\Controllers\\DeviceController.cs",
+              "RelativeToolTip": "UI\\Controllers\\DeviceController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:14:23.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\projects\\LabManagementSystem\\Server\\Repository\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Repository\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\projects\\LabManagementSystem\\Server\\Repository\\Models\\Customer.cs",
+              "RelativeToolTip": "Repository\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:05:50.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\projects\\LabManagementSystem\\Server\\Repository\\Implementations\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Implementations\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\projects\\LabManagementSystem\\Server\\Repository\\Implementations\\OrderRepository.cs",
+              "RelativeToolTip": "Repository\\Implementations\\OrderRepository.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAwwC0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:01:54.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\projects\\LabManagementSystem\\Server\\Repository\\Implementations\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Implementations\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\projects\\LabManagementSystem\\Server\\Repository\\Implementations\\CustomerRepository.cs",
+              "RelativeToolTip": "Repository\\Implementations\\CustomerRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:01:35.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeviceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\projects\\LabManagementSystem\\Server\\Repository\\Implementations\\DeviceRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Implementations\\DeviceRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\projects\\LabManagementSystem\\Server\\Repository\\Implementations\\DeviceRepository.cs",
+              "RelativeToolTip": "Repository\\Implementations\\DeviceRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:01:43.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\projects\\LabManagementSystem\\Server\\UI\\appsettings.json",
+              "RelativeDocumentMoniker": "UI\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\projects\\LabManagementSystem\\Server\\UI\\appsettings.json",
+              "RelativeToolTip": "UI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T12:08:56.089Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
